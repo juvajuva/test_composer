@@ -1,0 +1,10 @@
+{
+    "name": "zhouwang/test_composer",
+    "authors": [
+        {
+            "name": "juvajuva",
+            "email": "593354129@qq.com"
+        }
+    ],
+    "require": {}
+}
